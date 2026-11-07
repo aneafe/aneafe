@@ -21,7 +21,7 @@ Over 20 years of rigorous experience designing high-concurrency relational datab
 
 #### **e-Cube Technologies Limited**
 *Founder & Technical Director* | Jan 2017 – Present
-*   Architected and deployed high-performance, open-source relational database schemas and data-capturing structures optimized for rigorous asset ledger tracking and ledger balancing.
+*   Architected and deployed high-performance, relational database schemas and data-capturing structures optimized for rigorous asset ledger tracking and ledger balancing.
 *   Designed and implemented secure, asynchronous queuing protocols (Redis/Laravel Horizon) and optimized RESTful API gateways to process high-concurrency transactional streams efficiently.
 *   Improved database querying and indexing performance by **100%** through structural normalization, caching strategies, and fine-tuning query execution plans.
 *   Enforced strict system stability and data validity by establishing automated unit and integration testing pipelines alongside collaborative, standard-driven code reviews.
